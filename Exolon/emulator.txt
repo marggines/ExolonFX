@@ -3,4 +3,4 @@ https://felipemanga.github.io/ProjectABE/?hex=https://github.com/marggines/playg
 
 https://felipemanga.github.io/ProjectABE/?hex=https://raw.githubusercontent.com/marggines/playground/main/Exolon_bin/ExolonFX.hex&data=https://github.com/marggines/playground/raw/main/Exolon_bin/fxdata.bin
 
-https://felipemanga.github.io/ProjectABE/?url=https://github.com/marggines/playground/raw/main/Exolon_bin_3/ExolonFX.arduboy
+https://felipemanga.github.io/ProjectABE/?url=https://github.com/marggines/ExolonFX/raw/main/Exolon/Exolon.arduboy
