@@ -1,0 +1,6 @@
+https://felipemanga.github.io/ProjectABE/?hex=https://github.com/marggines/playground/raw/da1fd15f4ffe1e1e62af7a28d23b168601d3a349/manicminer/manic_minerFX.ino-arduboy.hex&data=https://github.com/marggines/playground/raw/da1fd15f4ffe1e1e62af7a28d23b168601d3a349/manicminer/fxdata.bin
+
+
+https://felipemanga.github.io/ProjectABE/?hex=https://raw.githubusercontent.com/marggines/playground/main/Exolon_bin/ExolonFX.hex&data=https://github.com/marggines/playground/raw/main/Exolon_bin/fxdata.bin
+
+https://felipemanga.github.io/ProjectABE/?url=https://github.com/marggines/playground/raw/main/Exolon_bin_3/ExolonFX.arduboy
