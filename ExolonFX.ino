@@ -1869,7 +1869,7 @@ void draw_background(){
         FX::drawBitmap(0-camera.x, 0-camera.y, Levels_bg_1, Current_Level, dbmWhite);
     } else if ((Current_Level > 24) && (Current_Level < 50)){
         FX::drawBitmap(0-camera.x, 0-camera.y, Levels_bg_2, Current_Level-25, dbmWhite);
-    } else if ((Current_Level >= 50) && (Current_Level < 74)){
+    } else if ((Current_Level >= 50) && (Current_Level < 75)){
         FX::drawBitmap(0-camera.x, 0-camera.y, Levels_bg_3, Current_Level-50, dbmWhite);
     } else if ((Current_Level >= 75) && (Current_Level < 100)){
         FX::drawBitmap(0-camera.x, 0-camera.y, Levels_bg_4, Current_Level-75, dbmWhite);
